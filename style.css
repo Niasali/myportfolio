@@ -1,0 +1,49 @@
+.name{
+	position: relative;
+	bottom: 0px;
+	left: -350px;
+}
+.firstpara{
+		position: relative;
+	bottom: 60px;
+	left: -350px;
+}
+.get-in-touch {
+	position: relative;
+	left: 260px;
+	bottom: 50px;
+  background-color: grey;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.leftpara{
+	position: relative;
+	bottom: 100px;
+	left: -350px;
+	font-size: -50px;	
+}
+.no{
+		position: relative;
+	left: -250px;
+	bottom: -50px;
+  background-color: grey;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.yes{
+		position: relative;
+	left: -200px;
+	bottom: -50px;
+  background-color: grey;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
